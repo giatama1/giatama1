@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Mochamad Gia Tama Nugraha.
+
+### A bit about me
+- I'm currently learning at Telkom University. My major is bachelor degree informatics.
+- I'm working on Merempah Indonesia as Back End Developer for complete my final project
 
 <!--
 **giatama1/giatama1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
